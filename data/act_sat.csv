@@ -1,0 +1,309 @@
+﻿State,Participation,Test,Year
+Alabama,0.05,SAT,2017
+Alabama,0.06,SAT,2018
+Alabama,0.07,SAT,2019
+Alabama,1,ACT,2017
+Alabama,1,ACT,2018
+Alabama,1,ACT,2019
+Alaska,0.33,ACT,2018
+Alaska,0.38,ACT,2019
+Alaska,0.38,SAT,2017
+Alaska,0.41,SAT,2019
+Alaska,0.43,SAT,2018
+Alaska,0.65,ACT,2017
+Arizona,0.29,SAT,2018
+Arizona,0.3,SAT,2017
+Arizona,0.31,SAT,2019
+Arizona,0.62,ACT,2017
+Arizona,0.66,ACT,2018
+Arizona,0.73,ACT,2019
+Arkansas,0.03,SAT,2017
+Arkansas,0.05,SAT,2018
+Arkansas,0.06,SAT,2019
+Arkansas,1,ACT,2017
+Arkansas,1,ACT,2018
+Arkansas,1,ACT,2019
+California,0.23,ACT,2019
+California,0.27,ACT,2018
+California,0.31,ACT,2017
+California,0.53,SAT,2017
+California,0.6,SAT,2018
+California,0.63,SAT,2019
+Colorado,0.11,SAT,2017
+Colorado,0.27,ACT,2019
+Colorado,0.3,ACT,2018
+Colorado,1,ACT,2017
+Colorado,1,SAT,2018
+Colorado,1,SAT,2019
+Connecticut,0.22,ACT,2019
+Connecticut,0.26,ACT,2018
+Connecticut,0.31,ACT,2017
+Connecticut,1,SAT,2017
+Connecticut,1,SAT,2018
+Connecticut,1,SAT,2019
+Delaware,0.13,ACT,2019
+Delaware,0.17,ACT,2018
+Delaware,0.18,ACT,2017
+Delaware,1,SAT,2017
+Delaware,1,SAT,2018
+Delaware,1,SAT,2019
+District of Columbia,0.32,ACT,2017
+District of Columbia,0.32,ACT,2018
+District of Columbia,0.32,ACT,2019
+District of Columbia,0.92,SAT,2018
+District of Columbia,0.94,SAT,2019
+District of Columbia,1,SAT,2017
+Florida,0.54,ACT,2019
+Florida,0.56,SAT,2018
+Florida,0.66,ACT,2018
+Florida,0.73,ACT,2017
+Florida,0.83,SAT,2017
+Florida,1,SAT,2019
+Georgia,0.49,ACT,2019
+Georgia,0.53,ACT,2018
+Georgia,0.55,ACT,2017
+Georgia,0.61,SAT,2017
+Georgia,0.7,SAT,2018
+Georgia,0.71,SAT,2019
+Hawaii,0.54,SAT,2019
+Hawaii,0.55,SAT,2017
+Hawaii,0.56,SAT,2018
+Hawaii,0.8,ACT,2019
+Hawaii,0.89,ACT,2018
+Hawaii,0.9,ACT,2017
+Idaho,0.31,ACT,2019
+Idaho,0.36,ACT,2018
+Idaho,0.38,ACT,2017
+Idaho,0.93,SAT,2017
+Idaho,1,SAT,2018
+Idaho,1,SAT,2019
+Illinois,0.09,SAT,2017
+Illinois,0.35,ACT,2019
+Illinois,0.43,ACT,2018
+Illinois,0.93,ACT,2017
+Illinois,0.99,SAT,2018
+Illinois,1,SAT,2019
+Indiana,0.29,ACT,2019
+Indiana,0.32,ACT,2018
+Indiana,0.35,ACT,2017
+Indiana,0.63,SAT,2017
+Indiana,0.63,SAT,2018
+Indiana,0.66,SAT,2019
+Iowa,0.02,SAT,2017
+Iowa,0.03,SAT,2018
+Iowa,0.03,SAT,2019
+Iowa,0.66,ACT,2019
+Iowa,0.67,ACT,2017
+Iowa,0.68,ACT,2018
+Kansas,0.04,SAT,2017
+Kansas,0.04,SAT,2018
+Kansas,0.04,SAT,2019
+Kansas,0.71,ACT,2018
+Kansas,0.72,ACT,2019
+Kansas,0.73,ACT,2017
+Kentucky,0.04,SAT,2017
+Kentucky,0.04,SAT,2018
+Kentucky,0.04,SAT,2019
+Kentucky,1,ACT,2017
+Kentucky,1,ACT,2018
+Kentucky,1,ACT,2019
+Louisiana,0.04,SAT,2017
+Louisiana,0.04,SAT,2018
+Louisiana,0.05,SAT,2019
+Louisiana,1,ACT,2017
+Louisiana,1,ACT,2018
+Louisiana,1,ACT,2019
+Maine,0.06,ACT,2019
+Maine,0.07,ACT,2018
+Maine,0.08,ACT,2017
+Maine,0.95,SAT,2017
+Maine,0.99,SAT,2018
+Maine,0.99,SAT,2019
+Maryland,0.28,ACT,2017
+Maryland,0.28,ACT,2019
+Maryland,0.31,ACT,2018
+Maryland,0.69,SAT,2017
+Maryland,0.76,SAT,2018
+Maryland,0.82,SAT,2019
+Massachusetts,0.21,ACT,2019
+Massachusetts,0.25,ACT,2018
+Massachusetts,0.29,ACT,2017
+Massachusetts,0.76,SAT,2017
+Massachusetts,0.8,SAT,2018
+Massachusetts,0.81,SAT,2019
+Michigan,0.19,ACT,2019
+Michigan,0.22,ACT,2018
+Michigan,0.29,ACT,2017
+Michigan,1,SAT,2017
+Michigan,1,SAT,2018
+Michigan,1,SAT,2019
+Minnesota,0.03,SAT,2017
+Minnesota,0.04,SAT,2018
+Minnesota,0.04,SAT,2019
+Minnesota,0.95,ACT,2019
+Minnesota,0.99,ACT,2018
+Minnesota,1,ACT,2017
+Mississippi,0.02,SAT,2017
+Mississippi,0.03,SAT,2018
+Mississippi,0.03,SAT,2019
+Mississippi,1,ACT,2017
+Mississippi,1,ACT,2018
+Mississippi,1,ACT,2019
+Missouri,0.03,SAT,2017
+Missouri,0.04,SAT,2018
+Missouri,0.04,SAT,2019
+Missouri,0.82,ACT,2019
+Missouri,1,ACT,2017
+Missouri,1,ACT,2018
+Montana,0.09,SAT,2019
+Montana,0.1,SAT,2017
+Montana,0.1,SAT,2018
+Montana,1,ACT,2017
+Montana,1,ACT,2018
+Montana,1,ACT,2019
+National,0.52,ACT,2019
+National,0.6,ACT,2017
+Nebraska,0.03,SAT,2017
+Nebraska,0.03,SAT,2018
+Nebraska,0.03,SAT,2019
+Nebraska,0.84,ACT,2017
+Nebraska,1,ACT,2018
+Nebraska,1,ACT,2019
+Nevada,0.2,SAT,2019
+Nevada,0.23,SAT,2018
+Nevada,0.26,SAT,2017
+Nevada,1,ACT,2017
+Nevada,1,ACT,2018
+Nevada,1,ACT,2019
+New Hampshire,0.14,ACT,2019
+New Hampshire,0.16,ACT,2018
+New Hampshire,0.18,ACT,2017
+New Hampshire,0.95,SAT,2019
+New Hampshire,0.96,SAT,2017
+New Hampshire,0.96,SAT,2018
+New Jersey,0.25,ACT,2019
+New Jersey,0.31,ACT,2018
+New Jersey,0.34,ACT,2017
+New Jersey,0.7,SAT,2017
+New Jersey,0.82,SAT,2018
+New Jersey,0.82,SAT,2019
+New Mexico,0.11,SAT,2017
+New Mexico,0.16,SAT,2018
+New Mexico,0.18,SAT,2019
+New Mexico,0.63,ACT,2019
+New Mexico,0.66,ACT,2017
+New Mexico,0.67,ACT,2018
+New York,0.22,ACT,2019
+New York,0.27,ACT,2018
+New York,0.31,ACT,2017
+New York,0.67,SAT,2017
+New York,0.79,SAT,2018
+New York,0.79,SAT,2019
+North Carolina,0.49,SAT,2017
+North Carolina,0.51,SAT,2019
+North Carolina,0.52,SAT,2018
+North Carolina,1,ACT,2017
+North Carolina,1,ACT,2018
+North Carolina,1,ACT,2019
+North Dakota,0.02,SAT,2017
+North Dakota,0.02,SAT,2018
+North Dakota,0.02,SAT,2019
+North Dakota,0.96,ACT,2019
+North Dakota,0.98,ACT,2017
+North Dakota,0.98,ACT,2018
+Ohio,0.12,SAT,2017
+Ohio,0.18,SAT,2018
+Ohio,0.19,SAT,2019
+Ohio,0.75,ACT,2017
+Ohio,1,ACT,2018
+Ohio,1,ACT,2019
+Oklahoma,0.07,SAT,2017
+Oklahoma,0.08,SAT,2018
+Oklahoma,0.22,SAT,2019
+Oklahoma,1,ACT,2017
+Oklahoma,1,ACT,2018
+Oklahoma,1,ACT,2019
+Oregon,0.4,ACT,2017
+Oregon,0.42,ACT,2018
+Oregon,0.42,ACT,2019
+Oregon,0.43,SAT,2017
+Oregon,0.48,SAT,2018
+Oregon,0.51,SAT,2019
+Pennsylvania,0.17,ACT,2019
+Pennsylvania,0.2,ACT,2018
+Pennsylvania,0.23,ACT,2017
+Pennsylvania,0.65,SAT,2017
+Pennsylvania,0.7,SAT,2018
+Pennsylvania,0.7,SAT,2019
+Rhode Island,0.12,ACT,2019
+Rhode Island,0.15,ACT,2018
+Rhode Island,0.21,ACT,2017
+Rhode Island,0.71,SAT,2017
+Rhode Island,0.97,SAT,2018
+Rhode Island,1,SAT,2019
+South Carolina,0.5,SAT,2017
+South Carolina,0.55,SAT,2018
+South Carolina,0.68,SAT,2019
+South Carolina,0.78,ACT,2019
+South Carolina,1,ACT,2017
+South Carolina,1,ACT,2018
+South Dakota,0.03,SAT,2017
+South Dakota,0.03,SAT,2018
+South Dakota,0.03,SAT,2019
+South Dakota,0.75,ACT,2019
+South Dakota,0.77,ACT,2018
+South Dakota,0.8,ACT,2017
+Tennessee,0.05,SAT,2017
+Tennessee,0.06,SAT,2018
+Tennessee,0.07,SAT,2019
+Tennessee,1,ACT,2017
+Tennessee,1,ACT,2018
+Tennessee,1,ACT,2019
+Texas,0.39,ACT,2019
+Texas,0.45,ACT,2017
+Texas,0.45,ACT,2018
+Texas,0.62,SAT,2017
+Texas,0.66,SAT,2018
+Texas,0.68,SAT,2019
+Utah,0.03,SAT,2017
+Utah,0.04,SAT,2018
+Utah,0.04,SAT,2019
+Utah,1,ACT,2017
+Utah,1,ACT,2018
+Utah,1,ACT,2019
+Vermont,0.2,ACT,2019
+Vermont,0.24,ACT,2018
+Vermont,0.29,ACT,2017
+Vermont,0.6,SAT,2017
+Vermont,0.64,SAT,2018
+Vermont,0.66,SAT,2019
+Virginia,0.21,ACT,2019
+Virginia,0.24,ACT,2018
+Virginia,0.29,ACT,2017
+Virginia,0.65,SAT,2017
+Virginia,0.68,SAT,2018
+Virginia,0.68,SAT,2019
+Washington,0.24,ACT,2018
+Washington,0.24,ACT,2019
+Washington,0.29,ACT,2017
+Washington,0.64,SAT,2017
+Washington,0.69,SAT,2018
+Washington,0.7,SAT,2019
+West Virginia,0.14,SAT,2017
+West Virginia,0.28,SAT,2018
+West Virginia,0.49,ACT,2019
+West Virginia,0.65,ACT,2018
+West Virginia,0.69,ACT,2017
+West Virginia,0.99,SAT,2019
+Wisconsin,0.03,SAT,2017
+Wisconsin,0.03,SAT,2018
+Wisconsin,0.03,SAT,2019
+Wisconsin,1,ACT,2017
+Wisconsin,1,ACT,2018
+Wisconsin,1,ACT,2019
+Wyoming,0.03,SAT,2017
+Wyoming,0.03,SAT,2018
+Wyoming,0.03,SAT,2019
+Wyoming,1,ACT,2017
+Wyoming,1,ACT,2018
+Wyoming,1,ACT,2019
