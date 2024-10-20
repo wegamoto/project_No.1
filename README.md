@@ -30,6 +30,8 @@ educational access, and student preferences over time. Here's a general approach
 - Statistical Analysis Geographical Differences
     - Bottom criteria![Bottom Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_Bottom.png)
     - Bottom Average ACT![Bottom Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_2.png)
+    - Top criteria![Top Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_Top.png)
+    - Top Average ACT![Top Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_1.png)
 - Visualization Graphs
 
 ## Summary
