@@ -1,4 +1,4 @@
-# Project Name
+# ACT Analysis
 
 Project 1 Analysis of the ACT Admissions Test  
 Analyzing participation rates in ACT (American College Testing) exams can provide insights into several factors, such as demographic trends, 
