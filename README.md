@@ -23,6 +23,7 @@ educational access, and student preferences over time. Here's a general approach
     - Participation Rate/Participation Trends ![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Paticipation_Rate.png)
     - Composite Trends![Composite Trend](https://github.com/wegamoto/project_No.1/blob/main/images/composit_score.png).
 - Data Segmentation By State/Region, Impact of Policies
+    - Participation Rate![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Trend_by_State_2024.png).
 - Trend Analysis Changes in Participation Over Time
 - Statistical Analysis Geographical Differences
 - Visualization Graphs
