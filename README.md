@@ -52,6 +52,12 @@ To install and set up this project, follow these steps:
 
 Provide instructions and examples for using the project. For example:
 
+## Contact
+For any questions or feedback, reach out to:
+
+Your Name - promakotara@gmail.com
+GitHub: @wegamoto
+
 
 ## License
 This project is licensed under the MIT License.
