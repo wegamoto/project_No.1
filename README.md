@@ -22,7 +22,7 @@ educational access, and student preferences over time. Here's a general approach
 - Data Segmentation By State/Region, Impact of Policies
 - Trend Analysis Changes in Participation Over Time
 - Statistical Analysis Geographical Differences
-- Visualization Graphs, Heat Maps
+- Visualization Graphs
 
 ## Summary
 
