@@ -20,8 +20,8 @@ educational access, and student preferences over time. Here's a general approach
 
   Resources [Average ACT Score Pages](https://worldpopulationreview.com/state-rankings/average-act-score-by-state)
 - Identify Key Metrics
-  Participation Rate![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Paticipation_Rate.png)
-  Participation Trends 
+    - Participation Rate/Participation Trends ![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Paticipation_Rate.png)
+    - Composite Trends![Composite Trend](https://github.com/wegamoto/project_No.1/blob/main/images/composit_score.png).
 - Data Segmentation By State/Region, Impact of Policies
 - Trend Analysis Changes in Participation Over Time
 - Statistical Analysis Geographical Differences
