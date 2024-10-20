@@ -24,7 +24,11 @@ educational access, and student preferences over time. Here's a general approach
 - Visualization Graphs, Heat Maps
 
 ## Summary
-    Summarizing what was obtained from studying the data to find insights in the data, it was known that the differences in average scores in each state, some states have regulations that make students in the entire state join the competitive exam, and the popularity values ​​are high and low, and can be further explored for decision-making in choosing to continue studying or compete in the exam to enter the university level.
+    Summarizing what was obtained from studying the data to find insights in the data, 
+it was known that the differences in average scores in each state, some states have regulations 
+that make students in the entire state join the competitive exam, and the popularity values ​​are high and low, 
+and can be further explored for decision-making in choosing 
+to continue studying or compete in the exam to enter the university level.
 
 ## Installation
 
