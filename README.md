@@ -17,7 +17,7 @@ educational access, and student preferences over time. Here's a general approach
 ## Features
 
 - Data Collection Analyze each year's data 
-  Resources [Average ACT Score Pages][HTTPs://worldpopulationreview.com/state-rankings/average-act-score-by-state]
+  Resources [Average ACT Score Pages](https://worldpopulationreview.com/state-rankings/average-act-score-by-state)
 - Identify Key Metrics Participation Rate Participation Trends
 - Data Segmentation By State/Region, Impact of Policies
 - Trend Analysis Changes in Participation Over Time
