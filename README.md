@@ -26,10 +26,10 @@ educational access, and student preferences over time. Here's a general approach
 ## Summary
 
 Summarizing what was obtained from studying the data to find insights in the data, 
-    it was known that the differences in average scores in each state, some states have regulations 
-    that make students in the entire state join the competitive exam, and the popularity values ​​are high and low, 
-    and can be further explored for decision-making in choosing 
-    to continue studying or compete in the exam to enter the university level.
+it was known that the differences in average scores in each state, some states have regulations 
+that make students in the entire state join the competitive exam, and the popularity values ​​are high and low, 
+and can be further explored for decision-making in choosing 
+to continue studying or compete in the exam to enter the university level.
 
 ## Installation
 
@@ -51,6 +51,10 @@ To install and set up this project, follow these steps:
 ## Usage
 
 Provide instructions and examples for using the project. For example:
+
+
+## License
+This project is licensed under the MIT License.
 
 ```bash
 npm start
