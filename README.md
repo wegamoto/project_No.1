@@ -28,10 +28,10 @@ educational access, and student preferences over time. Here's a general approach
     - Participation Rate![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Paticipation_Rate.png)
     - Composite score Average![Composite score Average](https://github.com/wegamoto/project_No.1/blob/main/images/composit_score.png)
 - Statistical Analysis Geographical Differences
-    - Bottom criteria![Bottom Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_Bottom.png)
-    - Bottom Average ACT![Bottom Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_2.png)
-    - Top criteria![Top Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_Top.png)
-    - Top Average ACT![Top Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_1.png)
+    - Bottom criteria ![Bottom Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_Bottom.png)
+    - Bottom Average ACT ![Bottom Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_2.png)
+    - Top criteria ![Top Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_Top.png)
+    - Top Average ACT ![Top Average ACT](https://github.com/wegamoto/project_No.1/blob/main/images/Average_ACT_Score_by_State_2024_1.png)
 - Visualization Graphs
     - Participation Rate by Region ![Participation Rate by Region](https://github.com/wegamoto/project_No.1/blob/main/images/ParticipationRateByRegion.png)
     - Composite Score by Region ![Composite Score by Region](https://github.com/wegamoto/project_No.1/blob/main/images/composit_score_by_region.png)
