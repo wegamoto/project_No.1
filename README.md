@@ -25,6 +25,7 @@ educational access, and student preferences over time. Here's a general approach
 - Data Segmentation By State/Region, Impact of Policies
     - Participation Rate![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Trend_by_State_2024.png).
 - Trend Analysis Changes in Participation Over Time
+    - Participation Rate![Participation Rate](https://github.com/wegamoto/project_No.1/blob/main/images/Paticipation_Rate.png)
 - Statistical Analysis Geographical Differences
 - Visualization Graphs
 
