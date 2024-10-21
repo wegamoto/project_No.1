@@ -9,9 +9,6 @@ educational access, and student preferences over time. Here's a general approach
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -60,10 +57,6 @@ To install and set up this project, follow these steps:
     ```bash
     npm install
     ```
-
-## Usage
-
-Provide instructions and examples for using the project. For example:
 
 ## Contact
 For any questions or feedback, reach out to:
